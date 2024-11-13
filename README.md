@@ -26,6 +26,7 @@ FAISS-LLM Interrogator Demo
 - [Performance Benchmarks](#performance-benchmarks)
 - [Contributing](#contributing)
 - [License](#license)
+  
 
 ## Installation
 
@@ -173,6 +174,14 @@ We've conducted extensive benchmarks to evaluate the performance of FAISS-LLM In
 | Max Documents Indexed    | 10 million|
 
 For detailed benchmark results and methodology, please refer to our [Benchmark Report](docs/benchmark_report.md).
+## Model Representation And Score
+In Below The Response Time Is Given
+
+<img width="1320" alt="Screenshot 2024-11-13 at 19 49 43" src="https://github.com/user-attachments/assets/15352d78-902a-428a-a6ed-46e610e0cefa">
+
+<img width="1727" alt="Screenshot 2024-11-13 at 19 01 33" src="https://github.com/user-attachments/assets/cfef7dcd-796c-4ed5-925f-e8245c7560b3">
+
+
 
 ## Contributing
 
