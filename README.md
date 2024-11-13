@@ -1,7 +1,7 @@
 
 
-# FAISS-LLM Interrogator
-
+# FAISS-LLM Interrogator Using meta/llama-3.1-nemotron-70b-instrcut
+A Project By Praneeth Kilari
 ## Overview
 
 FAISS-LLM Interrogator is an advanced question-answering system that combines the power of Facebook AI Similarity Search (FAISS) for efficient similarity search and retrieval with Meta's state-of-the-art Llama 3 70B Instruct language model. This project enables users to perform accurate and context-aware question answering on large document collections.
