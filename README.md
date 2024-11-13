@@ -10,6 +10,10 @@ FAISS-LLM Interrogator Demo
 
 ## Features
 
+<img width="873" alt="Screenshot 2024-11-14 at 01 03 12" src="https://github.com/user-attachments/assets/2cafb7b9-ed48-4566-ad1d-00f0f5cba781">
+
+
+
 - **Efficient Document Indexing**: Utilizes FAISS for fast and memory-efficient indexing of large document collections.
 - **Advanced Language Understanding**: Leverages the Llama 3 70B Instruct model for superior natural language processing and generation.
 - **Context-Aware Responses**: Retrieves relevant document snippets to provide accurate and contextual answers.
@@ -175,24 +179,17 @@ We've conducted extensive benchmarks to evaluate the performance of FAISS-LLM In
 
 For detailed benchmark results and methodology, please refer to our [Benchmark Report](docs/benchmark_report.md).
 ## Model Representation And Score
-In Below The Response Time Is Given
+Response Time iS Attested Below 
 
 <img width="1320" alt="Screenshot 2024-11-13 at 19 49 43" src="https://github.com/user-attachments/assets/15352d78-902a-428a-a6ed-46e610e0cefa">
 
+Content Accuracy Is Very High
+
 <img width="1727" alt="Screenshot 2024-11-13 at 19 01 33" src="https://github.com/user-attachments/assets/cfef7dcd-796c-4ed5-925f-e8245c7560b3">
 
+<img width="1072" alt="Screenshot 2024-11-14 at 01 02 10" src="https://github.com/user-attachments/assets/27ab9b11-3f65-4590-ac8a-0afdcd05219e">
 
 
-## Contributing
-
-We welcome contributions to the FAISS-LLM Interrogator project! Please follow these steps to contribute:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/AmazingFeature`)
-3. Make your changes
-4. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-5. Push to the branch (`git push origin feature/AmazingFeature`)
-6. Open a Pull Request
 
 Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
