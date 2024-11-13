@@ -1,0 +1,13 @@
+prefix=/Volumes/Praneeth.work/NVIDIA VENV ENVIRONM/venv
+exec_prefix=/Volumes/Praneeth.work/NVIDIA VENV ENVIRONM/venv
+libdir=/Volumes/Praneeth.work/NVIDIA VENV ENVIRONM/venv/lib
+sharedlibdir=/Volumes/Praneeth.work/NVIDIA VENV ENVIRONM/venv/lib
+includedir=/Volumes/Praneeth.work/NVIDIA VENV ENVIRONM/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
